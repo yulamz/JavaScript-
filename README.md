@@ -1,3 +1,3 @@
-# JavaScript-algorithm
+# JavaScript-algorithms
 
-用JavaScript实现排序、搜索等算法
+Algorithms implemented in JavaScript.
