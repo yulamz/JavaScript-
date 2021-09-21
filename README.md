@@ -5,6 +5,7 @@
 
 01. [冒泡排序.md](./docs/冒泡排序.md)
 02. [选择排序.md](./docs/选择排序.md)
+03. [插入排序.md](./docs/插入排序.md)
 
 > to be continue...
 
