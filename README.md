@@ -8,5 +8,6 @@
 02. [选择排序.md](./docs/选择排序.md)
 03. [插入排序.md](./docs/插入排序.md)
 04. [归并排序.md](./docs/归并排序.md)
+05. [快速排序.md](./docs/快速排序.md)
 
 > to be continue...
