@@ -9,5 +9,6 @@
 03. [插入排序.md](./docs/插入排序.md)
 04. [归并排序.md](./docs/归并排序.md)
 05. [快速排序.md](./docs/快速排序.md)
+06. [顺序搜索.md](./docs/顺序搜索.md)
 
 > to be continue...
